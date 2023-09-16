@@ -1,9 +1,12 @@
 #!/bin/bash
-read -p "enter the number:-" a b
+#read -p "enter the number:-" a b
 
-if [ " $a -gt $b" ]
-then 
-   echo "$a is greater"
-else
-   echo " $b is greater"
-fi
+#if [ " $a -gt $b" ]
+#then 
+#   echo "$a is greater"
+#else
+#   echo " $b is greater"
+#fi
+
+Hello Cloud
+Wlecome to IACSD
